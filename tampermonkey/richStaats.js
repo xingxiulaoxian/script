@@ -9,6 +9,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=haobiquge.com
 // @grant        none
 // @updateURL    https://github.com/xingxiulaoxian/script/edit/main/tampermonkey/richStaats.js
+// @downloadURL  https://github.com/xingxiulaoxian/script/edit/main/tampermonkey/richStaats.js
 // ==/UserScript==
 
 (function() {

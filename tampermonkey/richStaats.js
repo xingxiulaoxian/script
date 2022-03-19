@@ -15,8 +15,12 @@
 (function() {
     'use strict';
     const writeln = document.writeln;
+    const write = document.write;
     document.writeln = function (...arg) {
-        console.log(...arg)
+        console.log('writeln', ...arg)
+    }
+    document.write = function (...arg) {
+        console.log('write',...arg)
     }
     // Your code here...
 })();

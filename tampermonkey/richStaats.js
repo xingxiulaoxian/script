@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         去掉笔趣阁广告
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  去广告
 // @author       xingxiulaoxian
 // @run-at       document-start
-// @match        *://m.haobiquge.com/*
+// @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=haobiquge.com
 // @grant        none
 // @updateURL    https://github.com/xingxiulaoxian/script/edit/main/tampermonkey/richStaats.js

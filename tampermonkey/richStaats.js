@@ -5,7 +5,7 @@
 // @description  去广告
 // @author       xingxiulaoxian
 // @run-at       document-start
-// @match        *://*/*
+// @match         *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=haobiquge.com
 // @grant        none
 // @updateURL    https://github.com/xingxiulaoxian/script/edit/main/tampermonkey/richStaats.js
